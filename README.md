@@ -4,6 +4,8 @@ Just changed the "textures" or the color of the Cat to make it trans yayyy...
 
 The default image is `oneko_original.gif` and it's still in the same directory as the changed file `oneko_trans.gif`. You can change the file in `oneko.js` under line 99.
 
+I also added a blackred, orange and a pink version.
+
 `let nekoFile = "./your_file.gif"`
 
 Original author: https://adryd.com

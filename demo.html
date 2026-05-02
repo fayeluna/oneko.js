@@ -11,7 +11,38 @@
   <script src="./oneko-ie6.js"></script>
 <![endif]-->
 <!--[if !IE]><!-->
-  <script src="./oneko.js"></script>
+  <script src="./oneko.js" data-cat="original"></script>
 <!--<![endif]-->
+
+<label for="pet-select">Choose a pet:</label>
+
+<select id="pet-select">
+  <option value="">--Please choose a variation--</option>
+  <option value="original">original</option>
+  <option value="trans">trans</option>
+  <option value="black-red">black-red</option>
+  <option value="orange">orange</option>
+  <option value="pink">pink</option>
+</select>
+
+<script>
+  function loadOneko(cat) {
+    document.getElementById("oneko")?.remove();
+    document.getElementById("oneko-script")?.remove();
+
+    const script = document.createElement("script");
+    script.id = "oneko-script";
+    script.src = "./oneko.js";
+    script.dataset.cat = cat || "original";
+    document.body.appendChild(script);
+  }
+
+  document.getElementById("pet-select").addEventListener("change", function () {
+    loadOneko(this.value);
+  });
+
+  loadOneko("original");
+</script>
+
 </body>
 </html>

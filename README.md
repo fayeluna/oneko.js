@@ -48,12 +48,20 @@ Also in your HTML you can put in this script so it can read the dropdown and in 
 | Cats | Description | Value |
 | -------------- | -------------- | -------------- |
 | Original Cat | OG cato | original |
-| Trans | Trans Texture | trans |
+| Trans Cat | Trans Texture | trans |
 | Anarchy Cat | Black-red Texture | anarchy |
 | Orange Cat | Orange cat energy | orange |
 | Pink Cat | Pink Texture | pink |
 
 I also plan to add more cats in the future that is something I'm already working on. (I'm currently working on a cat that belongs to a friend :3 )
+
+Here are all the images of the Cats:
+
+![Original Cat](variants/oneko_original.gif)
+![Trans Cato](variants/oneko_trans.gif)
+![Anarchy Cat](variants/oneko-anarchy.gif)
+![Orange Cat](variants/oneko-orange.gif)
+![Pink Cat](variants/oneko-pink.gif)
 
 ---
 

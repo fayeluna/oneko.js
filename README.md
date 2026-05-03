@@ -1,6 +1,6 @@
 # oneko.js
 
-Yay Cat on a website she runs, sleeps and does other stuff yay! (real cat)
+Yay! Cat on a website. She runs, sleeps and does other stuff, yay! (real cat)
 Small little pixel cat that follows your cursor. You can also click on it and some heart come off the cat.
 I added different textures and I searched for a way to change the textures on the site with a dropdown.
 So now you can change the Textures of the cat with a dropdown.

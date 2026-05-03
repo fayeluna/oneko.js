@@ -7,7 +7,7 @@
   const catVariants = {
     original: "variants/oneko_original.gif",
     trans: "variants/oneko_trans.gif",
-    "black-red": "variants/oneko-blackred.gif",
+    "black-red": "variants/oneko-anarchy.gif",
     orange: "variants/oneko-orange.gif",
     pink: "variants/oneko-pink.gif",
   };

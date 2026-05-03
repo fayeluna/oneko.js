@@ -20,10 +20,11 @@
   <option value="">--Please choose a variation--</option>
   <option value="original">original</option>
   <option value="trans">trans</option>
-  <option value="black-red">black-red</option>
+  <option value="black-red">anarchy</option>
   <option value="orange">orange</option>
   <option value="pink">pink</option>
 </select>
+
 
 <script>
   function loadOneko(cat) {
@@ -41,7 +42,8 @@
     loadOneko(this.value);
   });
 
-  loadOneko("original");
+  // Set the starting cat
+  loadOneko("trans");
 </script>
 
 </body>

@@ -18,7 +18,7 @@ Now you can change the cat textures with a dropdown:
 ```
 
 
-### Eventlistener to dropdown
+### Eventlistener to dropdown (also copy into your HTML)
 This is the Eventlistener to the dropdown. I also put this in the html directly. Ideally I would also like to put that in the same oneko.js as the other stuff. But I don't know how to do that *yet*.
 
 ```
@@ -57,10 +57,15 @@ I also plan to add more cats in the future that is something I'm already working
 
 Here are all the images of the Cats:
 
+## OG Cat
 ![Original Cat](variants/oneko_original.gif)
+## Trans Cat
 ![Trans Cato](variants/oneko_trans.gif)
+## Black - Red Texture Cat
 ![Anarchy Cat](variants/oneko-anarchy.gif)
+## Orange Cat
 ![Orange Cat](variants/oneko-orange.gif)
+## Pink Cat
 ![Pink Cat](variants/oneko-pink.gif)
 
 ---

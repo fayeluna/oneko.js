@@ -6,6 +6,7 @@ I added different textures and I searched for a way to change the textures on th
 So now you can change the Textures of the cat with a dropdown.
 
 You can also see a little demo of the dropdown and the cat on [my site](https://luna-uwu.nekoweb.org/).
+The dropdown is on the sidebar :)
 
 Here are all the textures of the Cats:
 

@@ -5,6 +5,8 @@ Small little pixel cat that follows your cursor. You can also click on it and so
 I added different textures and I searched for a way to change the textures on the site with a dropdown.
 So now you can change the Textures of the cat with a dropdown.
 
+You can also see a little demo of the dropdown and the cat on [my site](https://luna-uwu.nekoweb.org/).
+
 Here are all the textures of the Cats:
 
 ## OG Cat
